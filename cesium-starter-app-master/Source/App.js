@@ -8,3 +8,4 @@ viewer.dataSources.add(Cesium.KmlDataSource.load('https://oza-pong.github.io/iko
 viewer.camera.flyTo({   
      destination : Cesium.Cartesian3.fromDegrees(135.121684,35.299802,8000)});
 
+
