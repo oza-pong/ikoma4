@@ -58,7 +58,7 @@ Polygon.add({
 
 
 //kml読み込み
-viewer.dataSources.add(Cesium.KmlDataSource.load('https://oza-pong.github.io/ikoma4/cesium-starter-app-master/Source/ikoma4.kml'));
+viewer.dataSources.add(Cesium.KmlDataSource.load('https://oza-pong.github.io/ikoma4/cesium-starter-app-master/Source/Fukuchiyama_keikan.kmz'));
 
 
 //視点の変更
